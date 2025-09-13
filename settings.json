@@ -1,4 +1,7 @@
 {
+  "auto_update_extensions": {
+    "codebook": false
+  },
   "edit_predictions": {
     "disabled_globs": [],
     "mode": "eager",
@@ -147,8 +150,8 @@
     "font_size": 14.0
   },
   "telemetry": {
-    "diagnostics": true,
-    "metrics": true
+    "diagnostics": false,
+    "metrics": false
   },
   "base_keymap": "VSCode",
   "icon_theme": "Material Icon Theme",
