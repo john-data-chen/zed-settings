@@ -1,5 +1,6 @@
 {
   "auto_update_extensions": {
+    "catppuccin-icons": false,
     "codebook": false
   },
   "edit_predictions": {
@@ -154,13 +155,13 @@
     "metrics": false
   },
   "base_keymap": "VSCode",
-  "icon_theme": "Material Icon Theme",
+  "icon_theme": "Catppuccin Macchiato",
   "ui_font_size": 16,
   "buffer_font_size": 14.0,
   "theme": {
     "mode": "dark",
     "light": "One Light",
-    "dark": "GitHub Dark Default"
+    "dark": "Catppuccin Macchiato"
   },
   "format_on_save": "on",
   "languages": {
