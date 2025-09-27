@@ -1,4 +1,14 @@
 {
+  "context_servers": {
+    "chrome-devtools": {
+      "source": "custom",
+      "enabled": true,
+      "command": "npx",
+      "args": [
+        "chrome-devtools-mcp@latest"
+      ]
+    }
+  },
   "edit_predictions": {
     "disabled_globs": [],
     "mode": "eager",
@@ -157,7 +167,7 @@
   "theme": {
     "mode": "dark",
     "light": "One Light",
-    "dark": "Catppuccin Macchiato"
+    "dark": "Catppuccin Mocha"
   },
   "format_on_save": "on",
   "languages": {
